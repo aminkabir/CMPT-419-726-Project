@@ -21,4 +21,4 @@ This script trains a CNN model to classify the ECG beats images. The trained mod
 ## testing.py
 Running this script will evaluate the trained model on test data.
 
-<img src="images/Confusion_Matrix.png" align="center"/>
+<img src="images/Confusion_Matrix.png" align="center" width="300"/>

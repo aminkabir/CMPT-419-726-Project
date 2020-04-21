@@ -10,9 +10,11 @@ A version of Amin's multi-class classification training code designed to work wi
 ## Multi-class Classification Dataset
 Please dowload the directory from SFU Vault:
 https://vault.sfu.ca/index.php/s/5Tei9o8cIXEEl6u
+<img src="sample_beats.png" align="left"/>
 
 ## training.py
 This script trains a CNN model to classify the ECG beats images. The trained model and weights are saved in /models.
+<img src="architecture.png" align="left"/>
 
 ## testing.py
 Running this script will evaluate the trained model on test data.
